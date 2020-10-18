@@ -1,10 +1,10 @@
 # My Maps 
 
-## *Your name here*
+## Isaac Osafo Nkansah
 
 **My Maps** displays a list of maps, each of which show user-defined markers with a title, description, and location. The user can also create a new map. 
 
-Time spent: **X** hours spent in total
+Time spent: **6-7** hours spent in total
 
 ## Functionality 
 
@@ -16,7 +16,6 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-*  When a map marker is created, the pin is animated.
 *  Changed the color accents and hence the feel of the app
 *  Displays the total number of markers on a particular map
 
@@ -24,13 +23,14 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/ike97/CS_194_Assignment_1/blob/master/demo.gif' title='Video Walkthrough' width='250' height='500' alt='Video Walkthrough' />
+<img src='https://github.com/ike97/Assignment_2_MyMaps/blob/master/demo.gif' title='Video Walkthrough' width='250' height='500' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-There weren't any really. I struggled to get the gogole maps key but that was because I was using a company domain and I wasn't authorized to create a new project with that domain.... But anyways, this project was fun!
+I struggled to get the gogole maps key but that was because I was using a company domain and I wasn't 
+authorized to create a new project with that domain.... But anyways, this project was fun!
 
 ## License
 
